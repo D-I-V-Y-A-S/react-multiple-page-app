@@ -1,8 +1,8 @@
 import React from 'react'
 import { BrowserRouter as Router,Link, Route, Routes } from 'react-router-dom'
 import HomePageComponent from './Components/routes/HomePageComponent/HomePageComponent'
-import AboutUsPageComponent from './Components/routes/AboutUsPageComponent/AboutUsPageComponent'
 import ContactUsPageComponent from './Components/routes/ContactUsPageComponent/ContactUsPageComponent'
+import AboutUsPageComponent from './Components/routes/AboutUsPageComponent/AboutUsPageComponent'
 const App = () => {
   return (
  <Router>
